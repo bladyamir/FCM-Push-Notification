@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Push Notification 3</string>
+    <integer name="OK">-1</integer>
+    <integer name="CENCEL">-2</integer>
+</resources>

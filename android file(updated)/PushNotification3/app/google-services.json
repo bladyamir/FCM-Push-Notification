@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "726143076548",
+    "firebase_url": "https://test4-347e0.firebaseio.com",
+    "project_id": "test4-347e0",
+    "storage_bucket": "test4-347e0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:726143076548:android:19bd0a30ced9ebe6",
+        "android_client_info": {
+          "package_name": "test.amir.pushnotification3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "726143076548-feihnfds86vtrtlj1no88jm1b3gml812.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeoSMPXkDaULKz8P8U9kfXUubJ8A7q8Bw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

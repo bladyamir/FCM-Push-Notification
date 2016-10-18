@@ -1,0 +1,8 @@
+http://pushnotification.net23.net/
+(add block shpuld be disable)
+
+(registration from mobile only)
+
+features:
+1.send push notification from mobile or web
+2.send specific or all users

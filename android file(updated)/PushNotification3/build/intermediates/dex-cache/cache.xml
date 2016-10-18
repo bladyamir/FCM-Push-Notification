@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/amir/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/home/amir/Git hub/Android/PushNotification3/app/build/intermediates/pre-dexed/debug/support-annotations-23.4.0_14835c615d5a1dbbe48292e3a42e449c4d50bef4.jar" />
+    </item>
+    <item
+        jar="/home/amir/Git hub/Android/PushNotification3/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="88848548ab56d4fbf3d2d1b0c85bf1ff9b4c1f4b">
+        <dex dex="/home/amir/Git hub/Android/PushNotification3/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-9.4.0_8d6c2953194d38b43fdb3ca3ed0e3d6b6ddf7970.jar" />
+    </item>
+    <item
+        jar="/home/amir/Git hub/Android/PushNotification3/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/home/amir/Git hub/Android/PushNotification3/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.4.0_854ee1b340c8e6490a3c1048e2347452031a561b.jar" />
+    </item>
+    <item
+        jar="/home/amir/Git hub/Android/PushNotification3/app/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4b6d9b70f93bbeb872d0948bc064ae3f3f2bcbac">
+        <dex dex="/home/amir/Git hub/Android/PushNotification3/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-messaging-9.4.0_e6aaa2d8c4eb99aee374878f2521652ec6bffd12.jar" />
+    </item>
+    <item
+        jar="/home/amir/Git hub/Android/PushNotification3/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a440fb3fec30ff925e9f601cc458fb6671834cb2">
+        <dex dex="/home/amir/Git hub/Android/PushNotification3/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-impl-9.4.0_61235424c4a3d620e25df99e359d2503a97c2910.jar" />
+    </item>
+    <item
+        jar="/home/amir/Git hub/Android/PushNotification3/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="18b5697c65c4fe5b7381613b8b8ae9ac52e26fa7">
+        <dex dex="/home/amir/Git hub/Android/PushNotification3/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-common-9.4.0_344bf7579fa5dad2921111a98ba2f99b5261b85b.jar" />
+    </item>
+    <item
+        jar="/home/amir/Git hub/Android/PushNotification3/app/build/intermediates/exploded-aar/com.android.volley/volley/1.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="/home/amir/Git hub/Android/PushNotification3/app/build/intermediates/pre-dexed/debug/com.android.volley-volley-1.0.0_8b44e2b39a45174db6b6dc7839085c8e320a8bc0.jar" />
+    </item>
+    <item
+        jar="/home/amir/Git hub/Android/PushNotification3/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8a36d229011e75f0caef408e1adf0d3fd4d94e02">
+        <dex dex="/home/amir/Git hub/Android/PushNotification3/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-9.4.0_c0c45b618e8f3dba1ff1ce62b511b88bb2de488e.jar" />
+    </item>
+    <item
+        jar="/home/amir/Git hub/Android/PushNotification3/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/home/amir/Git hub/Android/PushNotification3/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.4.0_5870b7c4431cf562651c29813bf968b836066fc3.jar" />
+    </item>
+    <item
+        jar="/home/amir/Git hub/Android/PushNotification3/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="3b7173b3df4c7029699919414400041f64519e34">
+        <dex dex="/home/amir/Git hub/Android/PushNotification3/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-iid-9.4.0_1f2a79d74d9d54dc4372efc2da269235ce886f47.jar" />
+    </item>
+    <item
+        jar="/home/amir/Git hub/Android/PushNotification3/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/home/amir/Git hub/Android/PushNotification3/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.4.0_547cc3ad472afa3816c2b6a9e8b2ca20d6edc156.jar" />
+    </item>
+    <item
+        jar="/home/amir/Git hub/Android/PushNotification3/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="618485fef3ebe12127f7622abbc9b5b39057b5c2">
+        <dex dex="/home/amir/Git hub/Android/PushNotification3/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-9.4.0_430fd536df68cc40b460da515ed8429cacf4607f.jar" />
+    </item>
+    <item
+        jar="/home/amir/Git hub/Android/PushNotification3/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="40048beb8bde3a24bc3ab9c0b73fe423d57ebe95">
+        <dex dex="/home/amir/Git hub/Android/PushNotification3/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_c587a3e406658fcdbbf57100f0cc43d6012177ed.jar" />
+    </item>
+    <item
+        jar="/home/amir/Git hub/Android/PushNotification3/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/home/amir/Git hub/Android/PushNotification3/app/build/intermediates/pre-dexed/debug/internal_impl-23.4.0_1207558ffdcec3def3139d949598b4758e509108.jar" />
+    </item>
+    <item
+        jar="/home/amir/Git hub/Android/PushNotification3/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="7ca553935465df0a2d1b02c4ca16dd90292dae8e">
+        <dex dex="/home/amir/Git hub/Android/PushNotification3/app/build/intermediates/pre-dexed/debug/instant-run_a4711ead5268376296b173c1256810db95c21678.jar" />
+    </item>
+    <item
+        jar="/home/amir/Git hub/Android/PushNotification3/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/home/amir/Git hub/Android/PushNotification3/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.4.0_7b510adb3c6d849cdaae3a457ecfe8ad9ff2762b.jar" />
+    </item>
+
+</items>
